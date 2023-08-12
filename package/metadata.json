@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "axdjuraev@gmail.com",
+                "Name": "axdjuraev"
+            }
+        ],
+        "Category": "Security Shit",
+        "Description": "A simple search through ur passess",
+        "Icon": "battery",
+        "Id": "com.github.axdjuraev.kdesearchpass",
+        "Name": "KDESearchPass",
+        "Version": "1",
+        "Website": "https://github.com/axdjuraev/kdesearchpass"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "KPackageStructure": "Plasma/Applet"
+}
